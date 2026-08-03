@@ -15,6 +15,6 @@ My biggest strength is that I am a quick learner. I don't give up easily and alw
 <!-- 4. Why did you choose web development as a career? -->
 “I chose web development because I enjoy building things and solving problems. I also enjoy learning new technologies.”
 
-<!-- 4. Why should we hire you? -->
+<!-- 5. Why should we hire you? -->
 
 “Because I have good knowledge of both frontend and backend development. I am also a quick learner, hardworking, and always ready to learn new things.”
